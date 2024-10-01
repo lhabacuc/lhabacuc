@@ -6,7 +6,7 @@
 - 💻 Apaixonado por soluções criativas e inovadoras, estou sempre buscando otimizar processos e aprender novas tecnologias.
   
 ### Colaborações e Interesses:
-- 💞️ Estou procurando colaborar em projetos **open-source** e desafios de programação onde possa contribuir com minha experiência em **C**, **Python**, **Bash**, e **design gráfico**.
+- 💞️ Estou procurando colaborar em projetos **open-source** e desafios de programação onde possa contribuir com minha experiência em **C**, **lua**, **Bash**, **java**, e **design gráfico**.
 - 🤝 Adoro fazer parte de projetos onde posso aplicar e compartilhar meu conhecimento em **otimização de código**, **estruturas de dados**, e **design de interfaces**.
 
 ### Como entrar em contato:
