@@ -10,7 +10,7 @@
 - 🤝 Adoro fazer parte de projetos onde posso aplicar e compartilhar meu conhecimento em **otimização de código**, **estruturas de dados**, e **design de interfaces**.
 
 ### Como entrar em contato:
-- 📫 Você pode me encontrar através do meu [GitHub](https://github.com/lhabacuc) ou [LinkedIn](https://www.linkedin.com/in/lhabacuc).
+- 📫 Você pode me encontrar através do meu [LinkedIn](https://www.linkedin.com/in/lhabacuc).
 
 ### Curiosidades:
 - 😄 Pronomes: **Ele/Dele**.
