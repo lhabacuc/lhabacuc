@@ -34,10 +34,10 @@ ___
 ___
 📫 **How to Reach Me**
 
-- LinkedIn: [lhabacuc](https://www.linkedin.com/in/lhabacuc)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) <!-- Please update this -->
+- LinkedIn: [lhabacuc](https://www.linkedin.com/in/liedson)
+- Twitter: [@YourTwitterHandle](https://twitter.com/lhabacuc6) <!-- Please update this -->
 - Portfolio/Blog: [Your Website URL Here](https://github.com/lhabacuc) <!-- Please update this -->
-- Email: [your.email@example.com](mailto:your.email@example.com) <!-- Please update this -->
+- Email: [your.email@example.com](mailto:lisvaldosf@gmail.com) <!-- Please update this -->
 ___
 ### About me:
 - 🔭 I am interested in expanding my skills as a **programmer** and **designer**.
