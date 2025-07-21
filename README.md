@@ -26,19 +26,6 @@ ___
 - I am learning and developing projects at **42Luanda**, with a focus on **C**, **algorithms**, and **desktop development**.
 - I am also exploring **Artificial Intelligence**.
 ___
-💡 **Projects Showcase**
-
-- **Project 1:** Placeholder: Describe your project here and add a [link to your project!](https://github.com/lhabacuc)
-- **Project 2:** Placeholder: Describe your project here and add a [link to your project!](https://github.com/lhabacuc)
-- **Project 3:** Placeholder: Describe your project here and add a [link to your project!](https://github.com/lhabacuc)
-___
-📫 **How to Reach Me**
-
-- LinkedIn: [lhabacuc](https://www.linkedin.com/in/liedson)
-- Twitter: [@YourTwitterHandle](https://twitter.com/lhabacuc6) <!-- Please update this -->
-- Portfolio/Blog: [Your Website URL Here](https://github.com/lhabacuc) <!-- Please update this -->
-- Email: [your.email@example.com](mailto:lisvaldosf@gmail.com) <!-- Please update this -->
-___
 ### About me:
 - 🔭 I am interested in expanding my skills as a **programmer** and **designer**.
 - 🌱 I'm learning and developing projects at **42Luanda**, focusing on **C**, **algorithms**, and **desktop development**.
