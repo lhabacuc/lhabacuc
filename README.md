@@ -49,7 +49,6 @@ ___
 - 🤝 I love being part of projects where I can apply and share my knowledge in **code optimization**, **data structures**, and **interface design**.
 
 ### Fun facts:
-- 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: Whenever I'm not coding, I'm probably playing chess or trying to learn something new about **artificial intelligence**.
 
 <!---
