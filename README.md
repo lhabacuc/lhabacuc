@@ -20,6 +20,7 @@ ___
 [![lhabacuc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhabacuc&show_icons=true&theme=radical)](https://github.com/lhabacuc)
 [![lhabacuc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhabacuc&layout=compact&theme=radical)](https://github.com/lhabacuc)
 ___
+<!---
 🌱 **Currently Learning**
 
 - Currently, I am focused on expanding my skills as a **programmer** and **designer**.
@@ -38,7 +39,7 @@ ___
 ### Fun facts:
 - ⚡ Fun fact: Whenever I'm not coding, I'm probably playing chess or trying to learn something new about **artificial intelligence**.
 
-<!---
+
 lhabacuc/lhabacuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
